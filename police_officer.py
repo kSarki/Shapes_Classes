@@ -1,4 +1,4 @@
-from parking_ticket import ParkingTicket
+from parkingticket import ParkingTicket
 
 class PoliceOfficer:
     def __init__(self, name, badge_number):

@@ -1,5 +1,5 @@
 from parked_car import ParkedCar
-from parking_meter import ParkingMeter
+from parkingmeter import ParkingMeter
 from police_officer import PoliceOfficer
 
 def run_scenario(car, meter, officer, description):
